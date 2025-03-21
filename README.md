@@ -1,6 +1,6 @@
 - 🔭 Atualmente trabalho com nodejs e python
 - 🌱 Aprofundando meu conhecimento em:
-       -  SSS
+       -  CSS
        - Banco de dados (MySQL)
        - APIs
 
